@@ -1,1 +1,0 @@
-print("uff, instalace je hotová :-)")
