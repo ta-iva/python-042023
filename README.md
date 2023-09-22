@@ -1,5 +1,5 @@
-## Python 2 - coursework presentation
-Semester course organized by Czechitas 
+## Python for Data Science - coursework presentation
+12-week course organized by Czechitas 
 
 #### Source
 [PythonProDataScience](https://github.com/pesikj/PythonProDataScience)
